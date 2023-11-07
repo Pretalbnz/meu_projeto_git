@@ -1,1 +1,5 @@
-Este é outro exemplo de um ficheiro de texto
+Este é outro exemplo de um ficheiro de texto 
+ola 
+ola
+ola
+
